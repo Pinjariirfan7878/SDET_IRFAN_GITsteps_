@@ -1,6 +1,6 @@
-package newpac;
+package PACK_ORG;
 
-public class Demo {
+public class CLASS_ORG {
 
 	public static void main(String[] args) {
 		
