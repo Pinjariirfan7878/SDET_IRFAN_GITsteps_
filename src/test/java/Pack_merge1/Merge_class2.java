@@ -1,4 +1,4 @@
-package Pack_merge;
+package Pack_merge1;
 
 public class Merge_class2 {
 	public static void main(String[] args) {
